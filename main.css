@@ -57,7 +57,11 @@ text-shadow: 2px;
 /* Content
 -------------------------------------------------- */
 .teaching {
-    text-align: left
+    font-size: 48px;
+    color: #7c7c7c;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center
 }
 
 .technology {
